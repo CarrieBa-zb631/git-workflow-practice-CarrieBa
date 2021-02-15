@@ -16,3 +16,7 @@ Moreover, it also mentioned why it could become such a popular app. Because "it�
 ***
 ###Comment （Jennie Wang）
 I personally use TikTok everyday. The most impressive point of TIkTok for me is its algorithm -- after you select to watch several videos, the app will automatically predict what type of videos you will like and present them on your screen. The more times you choose to like or ignore the video, the more TikTok will get to know you. Furthermore, TikTok is becoming more and more popular in all over the world. Also, i am seconding Carrie's point that it actaully merge functions of several apps together: chatting, shopping, news spreading and etc. TikTok's popularity is skyrocketing especially in scuh pandemic pierod.
+<<<<<<< HEAD
+=======
+
+>>>>>>> comment1
