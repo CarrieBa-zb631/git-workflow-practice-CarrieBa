@@ -6,7 +6,7 @@ Artical Name: How TikTok Is Rewriting the World
 
 Publisher: The New York Times
 
-Link: https://www.nytimes.com/2019/03/10/style/what-is-tik-tok.html?
+Link: https://www.nytimes.com/2019/03/10/style/what-is-tik-tok.html
 
 **About:**
 
