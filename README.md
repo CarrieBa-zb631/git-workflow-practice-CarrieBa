@@ -20,11 +20,7 @@ I personally use TikTok everyday. The most impressive point of TIkTok for me is 
 
 ***
 Comment (Jessica Liu/rl3541)
-<<<<<<< HEAD
 TikTok is definitely life-changing to many young people around the world. It alters how we utilize our fragment leisure time. The algorithms used to build this app are interesting in many ways. I personally experienced seeing a shampoo review on TikTok immediately after shopping for a conditioner on Taobao(Chinese version of Amazon). I wonder how the algos are structured and some details about them, as they seem super cool.
 
 ***
 Thanks for all comments!
-=======
-TikTok is definitely life-changing to many young people around the world. It alters how we utilize our fragment leisure time. The algorithms used to build this app are interesting in many ways. I personally experienced seeing a shampoo review on TikTok immediately after shopping for a conditioner on Taobao(Chinese version of Amazon). I wonder how the algos are structured and some details about them, as they seem super cool.
->>>>>>> 63dee07fefa7469ace7d87f7c26f6f508da8ea37
